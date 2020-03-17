@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author DHIRENDRA
+ * @author pallabi
  */
 public class FindHotel {
 
