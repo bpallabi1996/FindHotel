@@ -7,7 +7,7 @@ package findhotel;
 
 /**
  *
- * @author DHIRENDRA
+ * @author pallabi
  */
 public class Hotel {
     String hotelName;
